@@ -2,12 +2,14 @@
 
 <p align="center">
   <a href="https://engob.github.io/site-evenement/"><img alt="Essayer" src="https://img.shields.io/badge/Essayer-Voir_la_d%C3%A9mo_%28mot_de_passe_%3A_demo%29-0b0b0f?style=for-the-badge&labelColor=0b0b0f"></a>
-  <img alt="Statut" src="https://img.shields.io/badge/Statut-B%C3%AAta-0284c7?style=for-the-badge&labelColor=0b0b0f">
   <a href="https://engob.github.io/portofolio/projets/site-evenement/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Senshi_Kabai-4f46e5?style=for-the-badge&labelColor=0b0b0f"></a>
 </p>
 
 <h1 align="center">Site d'événement</h1>
 <p align="center"><b>Votre site de mariage en dix minutes, sans abonnement.</b><br>Un site d'événement élégant et complet : programme, lieux, RSVP, séjour, galerie, écran d'accès pour les invités. Tout se modifie directement dans la page.</p>
+<p align="center"><sub>Statut : <b>Bêta</b></sub></p>
+
+> **Pensé pour le téléphone.** C'est une application web installable (PWA) : ouvrez la démo sur votre mobile pour la voir telle qu'elle a été conçue. Sur un ordinateur, l'affichage n'est pas celui prévu ; la [fiche du portfolio](https://engob.github.io/portofolio/projets/site-evenement/) l'ouvre dans un cadre de téléphone, avec un QR code pour passer sur mobile.
 
 ---
 
